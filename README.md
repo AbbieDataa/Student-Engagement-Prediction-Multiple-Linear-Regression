@@ -1,0 +1,2 @@
+# Student-Engagement-Prediction-Multiple-Linear-Regression
+This project leverages Multiple Linear Regression to analyze and predict student engagement scores based on historical participation data. It was built entirely in Microsoft Excel using the Data Analysis ToolPak. The primary objective was to identify key drivers of student activity and build a reliable model to forecast future engagement levels. 
